@@ -45,14 +45,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prernaGsharma&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prernaGsharma&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaGsharma&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
-> ✏️ *Replace `your-username` with your actual GitHub username.*
+
 
 ---
 
