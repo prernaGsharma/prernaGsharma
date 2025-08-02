@@ -29,39 +29,16 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project Name       | Description                                         | Live / Repo Link |
-|--------------------|-----------------------------------------------------|------------------|
-| 🌟 **Maidly**         | A responsive platform to connect users with verified house-help services | [View Maidly](#) |
-| 🧾 **Login Page UI**  | Clean and mobile-friendly login form using HTML/CSS | [View Login Page](#) |
-| ✅ **To-Do List App** | A task manager app to track daily activities using JS | [View To-Do App](#) |
-
-> 🔗 *Replace the `#` with actual URLs to your deployed sites or GitHub repos.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prernaGsharma&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prernaGsharma&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prernaGsharma&layout=compact&theme=tokyonight" width="45%" />
-</p>
 
 
-
----
 
 ## 🌱 Currently Learning
 
 - ⚛️ ReactJS & Frontend Frameworks  
 - 🔗 Node.js & Express  
 - 🌐 Full Stack Web Development  
-- 🚀 Open Source Contribution  
+- 🚀 Open Source Contribution
+-   GSSOC-2025 || Contributor
 
 ---
 
